@@ -1,0 +1,17 @@
+.button {
+  margin: 20px;
+  height: 35px;
+  padding: 0 20px;
+  background-color: #9a5858;
+  color: rgb(255, 231, 231);
+  border: none;
+  border-radius: 5px;
+}
+
+.first:hover {
+  background-color: #c26c2f;
+}
+
+.second:hover {
+  background-color: #55b948;
+}
