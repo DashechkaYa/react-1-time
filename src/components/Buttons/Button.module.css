@@ -6,10 +6,20 @@
   color: rgb(255, 231, 231);
   border: none;
   border-radius: 5px;
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.icon {
+  width: auto;
+  height: 20px;
+  margin-right: 10px;
+  fill: #eafb52;
 }
 
 .first:hover {
-  background-color: #c26c2f;
+  background-color: #c23b2f;
 }
 
 .second:hover {
